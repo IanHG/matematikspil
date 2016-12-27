@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Regnestykker
+Exec=/home/ian/programming/python/matematikspil/regnestykker.py
+Icon=/home/ian/programming/python/matematikspil/regnestykker.png
+Terminal=true
+Type=Application

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Uligelige
+Exec=/home/ian/programming/python/matematikspil/uligelige.py
+Icon=/home/ian/programming/python/matematikspil/uligelige.png
+Terminal=true
+Type=Application
